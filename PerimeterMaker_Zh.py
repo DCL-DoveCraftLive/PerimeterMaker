@@ -5,7 +5,7 @@ DELAY = 0.1
 
 Prefix = "!!perimeter"
 help_msg = '''========== Perimeter Maker ==========
-§6{0}§r 显示这条信息
+§6{0} help §r 显示这条信息
 §6{0} make §b<length> <width>§r 以当前位置为中心清理一个空置域
 §6{0} commit§r 在使用make后使用，确认操作
 §6{0} abort§r 在任何时候中断操作'''.format(Prefix)
