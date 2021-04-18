@@ -1,7 +1,7 @@
 # Taps
-This plug-in is not original, but modified by magic
-Original publishment[PerimeterMaker](https://github.com/Ivan-1F/MCDReforged-Plugins/tree/master/PerimeterMaker)
-I Fixed the bug of water flowing in the process of manufacturing perimeter
+This plug-in is not original, but modified by magic  
+Original publishment[PerimeterMaker](https://github.com/Ivan-1F/MCDReforged-Plugins/tree/master/PerimeterMaker)  
+I Fixed the bug of water flowing in the process of manufacturing perimeter  
 
 ---
 
@@ -32,9 +32,9 @@ The delay after the layer operation, change it by the performance of the server
 
 ---
 # 注意
-这个插件并非我原创的
-而是魔改原本的[PerimeterMaker](https://github.com/Ivan-1F/MCDReforged-Plugins/tree/master/PerimeterMaker)
-我修复了这个插件在制造空置域过程中会让水流出来变成一个巨大的水域的特性
+这个插件并非我原创的  
+而是魔改原本的[PerimeterMaker](https://github.com/Ivan-1F/MCDReforged-Plugins/tree/master/PerimeterMaker)  
+我修复了这个插件在制造空置域过程中会让水流出来变成一个巨大的水域的特性  
 
 ---
 
