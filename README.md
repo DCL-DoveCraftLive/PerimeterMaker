@@ -1,3 +1,4 @@
+**English** | [中文](readme_cn.md)
 # Taps
 This plug-in is not original, but modified by magic  
 Original publishment[PerimeterMaker](https://github.com/Ivan-1F/MCDReforged-Plugins/tree/master/PerimeterMaker)  
