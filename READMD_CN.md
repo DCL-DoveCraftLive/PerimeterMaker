@@ -1,3 +1,4 @@
+[English](README.md) | **中文**
 # 注意
 这个插件并非我原创的  
 而是魔改原本的[PerimeterMaker](https://github.com/Ivan-1F/MCDReforged-Plugins/tree/master/PerimeterMaker)  
