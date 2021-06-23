@@ -1,8 +1,7 @@
 **English** | [中文](READMD_CN.md)
 # Taps
-This plug-in is not original, but modified by magic  
-Original publishment[PerimeterMaker](https://github.com/Ivan-1F/MCDReforged-Plugins/tree/master/PerimeterMaker)  
-I Fixed the bug of water flowing in the process of manufacturing perimeter  
+This plugin is not self-made, but modified from [PerimeterMaker](https://github.com/Ivan-1F/MCDReforged-Plugins/tree/master/PerimeterMaker)  
+I've fixed the bug of water flowing while manufacturing perimeter  
 
 ---
 
